@@ -1909,6 +1909,7 @@ add list=List_ALL_China address=103.224.80.0/22 comment=chnroute
 add list=List_ALL_China address=103.225.18.0/24 comment=chnroute
 add list=List_ALL_China address=103.225.84.0/22 comment=chnroute
 add list=List_ALL_China address=103.226.116.0/22 comment=chnroute
+add list=List_ALL_China address=103.226.116.0/23 comment=chnroute
 add list=List_ALL_China address=103.226.132.0/22 comment=chnroute
 add list=List_ALL_China address=103.226.156.0/22 comment=chnroute
 add list=List_ALL_China address=103.226.16.0/22 comment=chnroute
