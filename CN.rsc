@@ -10855,9 +10855,8 @@ add list=List_ALL_China address=61.29.224.0/21 comment=chnroute
 add list=List_ALL_China address=61.29.232.0/23 comment=chnroute
 add list=List_ALL_China address=61.29.235.0/24 comment=chnroute
 add list=List_ALL_China address=61.29.236.0/22 comment=chnroute
-add list=List_ALL_China address=61.29.240.0/21 comment=chnroute
+add list=List_ALL_China address=61.29.240.0/22 comment=chnroute
 add list=List_ALL_China address=61.29.248.0/22 comment=chnroute
-add list=List_ALL_China address=61.29.254.0/23 comment=chnroute
 add list=List_ALL_China address=61.4.176.0/20 comment=chnroute
 add list=List_ALL_China address=61.4.80.0/22 comment=chnroute
 add list=List_ALL_China address=61.4.81.0/24 comment=chnroute
