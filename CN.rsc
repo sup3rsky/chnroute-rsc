@@ -1986,6 +1986,7 @@ add list=List_ALL_China address=103.231.64.0/21 comment=chnroute
 add list=List_ALL_China address=103.231.64.0/22 comment=chnroute
 add list=List_ALL_China address=103.231.68.0/22 comment=chnroute
 add list=List_ALL_China address=103.232.144.0/22 comment=chnroute
+add list=List_ALL_China address=103.232.166.0/23 comment=chnroute
 add list=List_ALL_China address=103.232.17.168/29 comment=chnroute
 add list=List_ALL_China address=103.232.188.0/22 comment=chnroute
 add list=List_ALL_China address=103.232.212.0/22 comment=chnroute
