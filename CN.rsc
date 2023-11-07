@@ -3930,7 +3930,6 @@ add list=List_ALL_China address=103.96.212.0/22 comment=chnroute
 add list=List_ALL_China address=103.96.216.0/22 comment=chnroute
 add list=List_ALL_China address=103.96.224.0/23 comment=chnroute
 add list=List_ALL_China address=103.96.8.0/22 comment=chnroute
-add list=List_ALL_China address=103.96.80.0/22 comment=chnroute
 add list=List_ALL_China address=103.97.112.0/21 comment=chnroute
 add list=List_ALL_China address=103.97.112.0/22 comment=chnroute
 add list=List_ALL_China address=103.97.116.0/22 comment=chnroute
