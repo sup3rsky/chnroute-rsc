@@ -9418,6 +9418,9 @@ add list=List_ALL_China address=43.175.88.0/21 comment=chnroute
 add list=List_ALL_China address=43.175.96.0/19 comment=chnroute
 add list=List_ALL_China address=43.176.0.0/12 comment=chnroute
 add list=List_ALL_China address=43.192.0.0/14 comment=chnroute
+add list=List_ALL_China address=43.192.0.0/15 comment=chnroute
+add list=List_ALL_China address=43.194.0.0/16 comment=chnroute
+add list=List_ALL_China address=43.195.0.0/16 comment=chnroute
 add list=List_ALL_China address=43.196.0.0/15 comment=chnroute
 add list=List_ALL_China address=43.224.100.0/22 comment=chnroute
 add list=List_ALL_China address=43.224.12.0/22 comment=chnroute
