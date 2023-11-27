@@ -380,7 +380,6 @@ add list=List_ALL_China address=103.110.152.0/22 comment=chnroute
 add list=List_ALL_China address=103.110.156.0/22 comment=chnroute
 add list=List_ALL_China address=103.110.188.0/22 comment=chnroute
 add list=List_ALL_China address=103.110.204.0/22 comment=chnroute
-add list=List_ALL_China address=103.110.80.0/23 comment=chnroute
 add list=List_ALL_China address=103.110.92.0/22 comment=chnroute
 add list=List_ALL_China address=103.111.172.0/22 comment=chnroute
 add list=List_ALL_China address=103.111.252.0/22 comment=chnroute
