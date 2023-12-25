@@ -9186,6 +9186,7 @@ add list=List_ALL_China address=36.37.48.0/20 comment=chnroute
 add list=List_ALL_China address=36.4.0.0/14 comment=chnroute
 add list=List_ALL_China address=36.40.0.0/13 comment=chnroute
 add list=List_ALL_China address=36.48.0.0/15 comment=chnroute
+add list=List_ALL_China address=36.50.226.0/23 comment=chnroute
 add list=List_ALL_China address=36.51.0.0/16 comment=chnroute
 add list=List_ALL_China address=36.51.0.0/17 comment=chnroute
 add list=List_ALL_China address=36.51.128.0/18 comment=chnroute
