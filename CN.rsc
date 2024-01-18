@@ -1431,7 +1431,6 @@ add list=List_ALL_China address=103.210.216.0/22 comment=chnroute
 add list=List_ALL_China address=103.210.217.0/24 comment=chnroute
 add list=List_ALL_China address=103.210.218.0/23 comment=chnroute
 add list=List_ALL_China address=103.210.96.0/22 comment=chnroute
-add list=List_ALL_China address=103.211.100.0/22 comment=chnroute
 add list=List_ALL_China address=103.211.102.0/23 comment=chnroute
 add list=List_ALL_China address=103.211.156.0/22 comment=chnroute
 add list=List_ALL_China address=103.211.164.0/22 comment=chnroute
@@ -6004,6 +6003,8 @@ add list=List_ALL_China address=157.0.0.0/16 comment=chnroute
 add list=List_ALL_China address=157.10.112.0/23 comment=chnroute
 add list=List_ALL_China address=157.10.118.0/23 comment=chnroute
 add list=List_ALL_China address=157.10.130.0/23 comment=chnroute
+add list=List_ALL_China address=157.10.218.0/23 comment=chnroute
+add list=List_ALL_China address=157.10.220.0/23 comment=chnroute
 add list=List_ALL_China address=157.10.34.0/23 comment=chnroute
 add list=List_ALL_China address=157.10.36.0/23 comment=chnroute
 add list=List_ALL_China address=157.119.0.0/22 comment=chnroute
@@ -6077,7 +6078,6 @@ add list=List_ALL_China address=160.202.252.0/22 comment=chnroute
 add list=List_ALL_China address=160.202.60.0/22 comment=chnroute
 add list=List_ALL_China address=160.202.60.0/23 comment=chnroute
 add list=List_ALL_China address=160.202.62.0/24 comment=chnroute
-add list=List_ALL_China address=160.238.64.0/22 comment=chnroute
 add list=List_ALL_China address=160.238.65.0/24 comment=chnroute
 add list=List_ALL_China address=160.238.66.0/23 comment=chnroute
 add list=List_ALL_China address=160.83.109.0/24 comment=chnroute
