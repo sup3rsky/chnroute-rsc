@@ -9240,6 +9240,7 @@ add list=List_ALL_China address=40.0.176.0/20 comment=chnroute
 add list=List_ALL_China address=40.0.248.0/21 comment=chnroute
 add list=List_ALL_China address=40.125.128.0/17 comment=chnroute
 add list=List_ALL_China address=40.126.64.0/18 comment=chnroute
+add list=List_ALL_China address=40.162.0.0/16 comment=chnroute
 add list=List_ALL_China address=40.198.10.0/24 comment=chnroute
 add list=List_ALL_China address=40.198.16.0/21 comment=chnroute
 add list=List_ALL_China address=40.198.24.0/23 comment=chnroute
