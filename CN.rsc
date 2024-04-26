@@ -3060,6 +3060,7 @@ add list=List_ALL_China address=103.50.64.0/21 comment=chnroute
 add list=List_ALL_China address=103.50.64.0/22 comment=chnroute
 add list=List_ALL_China address=103.50.68.0/22 comment=chnroute
 add list=List_ALL_China address=103.50.72.0/22 comment=chnroute
+add list=List_ALL_China address=103.51.62.0/23 comment=chnroute
 add list=List_ALL_China address=103.52.100.0/22 comment=chnroute
 add list=List_ALL_China address=103.52.104.0/22 comment=chnroute
 add list=List_ALL_China address=103.52.160.0/21 comment=chnroute
