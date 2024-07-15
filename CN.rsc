@@ -6075,6 +6075,7 @@ add list=List_ALL_China address=160.22.58.0/23 comment=chnroute
 add list=List_ALL_China address=160.22.82.0/23 comment=chnroute
 add list=List_ALL_China address=160.25.10.0/23 comment=chnroute
 add list=List_ALL_China address=160.25.12.0/23 comment=chnroute
+add list=List_ALL_China address=160.25.194.0/23 comment=chnroute
 add list=List_ALL_China address=160.25.20.0/23 comment=chnroute
 add list=List_ALL_China address=160.83.109.0/24 comment=chnroute
 add list=List_ALL_China address=160.83.110.0/23 comment=chnroute
