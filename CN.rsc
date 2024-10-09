@@ -6030,6 +6030,7 @@ add list=List_ALL_China address=159.226.0.0/16 comment=chnroute
 add list=List_ALL_China address=159.27.0.0/16 comment=chnroute
 add list=List_ALL_China address=159.75.0.0/16 comment=chnroute
 add list=List_ALL_China address=16.2.142.0/23 comment=chnroute
+add list=List_ALL_China address=160.187.223.0/24 comment=chnroute
 add list=List_ALL_China address=160.19.208.0/21 comment=chnroute
 add list=List_ALL_China address=160.19.208.0/22 comment=chnroute
 add list=List_ALL_China address=160.19.212.0/22 comment=chnroute
