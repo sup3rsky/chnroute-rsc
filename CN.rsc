@@ -6072,11 +6072,13 @@ add list=List_ALL_China address=160.25.10.0/23 comment=chnroute
 add list=List_ALL_China address=160.25.12.0/23 comment=chnroute
 add list=List_ALL_China address=160.25.194.0/23 comment=chnroute
 add list=List_ALL_China address=160.25.20.0/23 comment=chnroute
+add list=List_ALL_China address=160.250.102.0/23 comment=chnroute
 add list=List_ALL_China address=160.250.14.0/23 comment=chnroute
 add list=List_ALL_China address=160.250.16.0/23 comment=chnroute
 add list=List_ALL_China address=160.250.18.0/23 comment=chnroute
 add list=List_ALL_China address=160.250.24.0/23 comment=chnroute
 add list=List_ALL_China address=160.250.84.0/23 comment=chnroute
+add list=List_ALL_China address=160.250.90.0/23 comment=chnroute
 add list=List_ALL_China address=160.30.148.0/23 comment=chnroute
 add list=List_ALL_China address=160.30.150.0/23 comment=chnroute
 add list=List_ALL_China address=160.30.194.0/23 comment=chnroute
