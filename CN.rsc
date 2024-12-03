@@ -2737,7 +2737,6 @@ add list=List_ALL_China address=103.4.170.0/23 comment=chnroute
 add list=List_ALL_China address=103.4.184.0/22 comment=chnroute
 add list=List_ALL_China address=103.4.224.0/22 comment=chnroute
 add list=List_ALL_China address=103.4.56.0/22 comment=chnroute
-add list=List_ALL_China address=103.40.100.0/22 comment=chnroute
 add list=List_ALL_China address=103.40.12.0/22 comment=chnroute
 add list=List_ALL_China address=103.40.158.0/23 comment=chnroute
 add list=List_ALL_China address=103.40.16.0/20 comment=chnroute
@@ -6077,6 +6076,7 @@ add list=List_ALL_China address=160.250.104.0/23 comment=chnroute
 add list=List_ALL_China address=160.250.14.0/23 comment=chnroute
 add list=List_ALL_China address=160.250.140.0/24 comment=chnroute
 add list=List_ALL_China address=160.250.16.0/23 comment=chnroute
+add list=List_ALL_China address=160.250.160.0/23 comment=chnroute
 add list=List_ALL_China address=160.250.18.0/23 comment=chnroute
 add list=List_ALL_China address=160.250.24.0/23 comment=chnroute
 add list=List_ALL_China address=160.250.84.0/23 comment=chnroute
@@ -6473,6 +6473,7 @@ add list=List_ALL_China address=192.55.40.0/24 comment=chnroute
 add list=List_ALL_China address=192.55.46.0/23 comment=chnroute
 add list=List_ALL_China address=192.55.68.0/22 comment=chnroute
 add list=List_ALL_China address=193.112.0.0/16 comment=chnroute
+add list=List_ALL_China address=193.119.0.0/19 comment=chnroute
 add list=List_ALL_China address=193.17.120.0/22 comment=chnroute
 add list=List_ALL_China address=193.20.64.0/22 comment=chnroute
 add list=List_ALL_China address=193.200.222.160/28 comment=chnroute
@@ -10251,7 +10252,6 @@ add list=List_ALL_China address=43.249.168.0/22 comment=chnroute
 add list=List_ALL_China address=43.249.192.0/22 comment=chnroute
 add list=List_ALL_China address=43.249.236.0/22 comment=chnroute
 add list=List_ALL_China address=43.249.4.0/22 comment=chnroute
-add list=List_ALL_China address=43.249.8.0/22 comment=chnroute
 add list=List_ALL_China address=43.250.100.0/22 comment=chnroute
 add list=List_ALL_China address=43.250.104.0/22 comment=chnroute
 add list=List_ALL_China address=43.250.108.0/22 comment=chnroute
