@@ -661,7 +661,6 @@ add list=List_ALL_China address=103.142.28.0/23 comment=chnroute
 add list=List_ALL_China address=103.142.58.0/23 comment=chnroute
 add list=List_ALL_China address=103.142.82.0/23 comment=chnroute
 add list=List_ALL_China address=103.142.96.0/23 comment=chnroute
-add list=List_ALL_China address=103.143.120.0/23 comment=chnroute
 add list=List_ALL_China address=103.143.124.0/23 comment=chnroute
 add list=List_ALL_China address=103.143.132.0/22 comment=chnroute
 add list=List_ALL_China address=103.143.132.0/23 comment=chnroute
