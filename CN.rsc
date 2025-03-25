@@ -6634,7 +6634,6 @@ add list=List_ALL_China address=163.223.173.0/24 comment=chnroute
 add list=List_ALL_China address=163.223.178.0/23 comment=chnroute
 add list=List_ALL_China address=163.223.28.0/23 comment=chnroute
 add list=List_ALL_China address=163.223.32.0/23 comment=chnroute
-add list=List_ALL_China address=163.223.68.0/23 comment=chnroute
 add list=List_ALL_China address=163.228.0.0/16 comment=chnroute
 add list=List_ALL_China address=163.244.246.0/24 comment=chnroute
 add list=List_ALL_China address=163.47.4.0/22 comment=chnroute
