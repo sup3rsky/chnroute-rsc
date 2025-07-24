@@ -7027,6 +7027,7 @@ add list=List_ALL_China address=192.163.11.0/24 comment=chnroute
 add list=List_ALL_China address=192.197.113.0/24 comment=chnroute
 add list=List_ALL_China address=192.23.191.0/24 comment=chnroute
 add list=List_ALL_China address=192.232.97.0/24 comment=chnroute
+add list=List_ALL_China address=192.51.172.0/23 comment=chnroute
 add list=List_ALL_China address=192.51.188.0/24 comment=chnroute
 add list=List_ALL_China address=192.55.46.0/23 comment=chnroute
 add list=List_ALL_China address=192.55.68.0/22 comment=chnroute
